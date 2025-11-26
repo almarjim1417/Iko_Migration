@@ -1,0 +1,12 @@
+# Archivos de sistema y logs
+.DS_Store
+Thumbs.db
+error_log
+*.log
+
+# Bloquear Excel antiguos, pero PERMITIMOS .csv
+*.xls
+*.xlsx
+
+# Si tienes alguna carpeta de backups, añádela aquí y descomenta
+# backups/
